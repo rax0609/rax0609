@@ -12,7 +12,7 @@ Hello! I'm 咖啡 (RX_0609), a dedicated and passionate software engineer curren
 
 ## Experience
 
-- **🏆 New Taipei City High School Skills Competition (Basic Information Applications)**: Participated and showcased skills in fundamental information technology applications.
+- **(🏆 New Taipei City High School Skills Competition (Basic Information Applications))[https://skill.ntpc.app/]**: Participated and showcased skills in fundamental information technology applications.
 
 ## Projects
 
