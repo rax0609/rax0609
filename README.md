@@ -37,7 +37,7 @@ For more about my projects and collaborations, feel free to visit the [RX-BOT Of
 
 You can reach out to me through the following channels:
 
-- **✉️ Email**: [support@futuracept.com](mailto:support@futuracept.com)
+- **✉️ Email**: [support@futuracept.com](mailto:support@futuracept.com),[rx@rxteam.net](mailto:rx@rxteam.net)
 - **🔗 LinkedIn**: [CHEN-YU-AN](https://www.linkedin.com/in/rax0609/)
 
 ---
