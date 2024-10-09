@@ -54,7 +54,7 @@ Thank you for visiting my GitHub profile! I look forward to connecting with fell
 ---
 
 **Languages and Tools:**
-
+![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
